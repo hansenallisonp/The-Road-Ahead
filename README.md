@@ -1,5 +1,6 @@
 # The-Road-Ahead
 By: Allison Hansen
+
 This repository is created to compare major tire brands (Michelin, Continental, Goodyear, Bridgestone) using public/open data. 
 
 **Running the Road Ahead:** This application can be launched from the python notebook included in this repository and only requires inserting an OpenAI API key. 
